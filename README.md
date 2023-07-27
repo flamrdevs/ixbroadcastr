@@ -2,13 +2,19 @@
   <a title="license" href="https://github.com/flamrdevs/ixbroadcastr/blob/main/LICENSE">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/core/badge?t=dark&v=MIT">
-      <img alt="github" src="https://flamrdevs.cyclic.app/core/badge?t=light&v=MIT" hspace="1">
+      <img alt="license" src="https://flamrdevs.cyclic.app/core/badge?t=light&v=MIT" hspace="1">
     </picture>
   </a>
-  <a title="gzip" href="https://bundlejs.com/?q=ixbroadcastr">
+  <a title="version" href="https://www.npmjs.com/package/ixbroadcastr">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/npm/version?t=dark&n=ixbroadcastr">
+      <img alt="version" src="https://flamrdevs.cyclic.app/npm/version?t=light&n=ixbroadcastr" hspace="1">
+    </picture>
+  </a>
+  <a title="size" href="https://bundlejs.com/?q=ixbroadcastr">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://flamrdevs.cyclic.app/bundlejs/size?t=dark&n=ixbroadcastr">
-      <img alt="github" src="https://flamrdevs.cyclic.app/bundlejs/size?t=light&n=ixbroadcastr" hspace="1">
+      <img alt="size" src="https://flamrdevs.cyclic.app/bundlejs/size?t=light&n=ixbroadcastr" hspace="1">
     </picture>
   </a>
 </p>
